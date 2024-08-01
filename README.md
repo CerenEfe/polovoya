@@ -60,7 +60,6 @@ Farklı kültürleri ve insanları tanımak isteyenler. <br>
 Proje Yapılandırması ve Gereksinim Tanımlaması. <br>
 
 <H1>Sprint Board</H1>
-<img src="grup-toplantı-screenshot/planning.jpeg">
 
 <h1>Sprint 1 Hedefi:</h1> 
 <h2>100 puan</h2>
