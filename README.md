@@ -88,7 +88,7 @@ Giriş Sayfası oluşturma - (12 puan) <br>
 Kayıt Sayfası oluşturma - (12 puan) <br>
 Anasayfa oluşturma - (14 puan) <br>
 
-<h2>Tamamlanan görevlerin toplamı: 111 puan </h2>
+<h2>Tamamlanan görevlerin toplamı: 101 puan </h2>
 
 <H1>Sprint Notes</H1>
 <h2>Proje Yapılandırması ve Gereksinim Tanımlaması</h2> 
