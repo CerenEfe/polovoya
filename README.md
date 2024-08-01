@@ -61,8 +61,6 @@ Proje Yapılandırması ve Gereksinim Tanımlaması. <br>
 
 <H1>Sprint Board</H1>
 <img src="grup-toplantı-screenshot/planning.jpeg">
-Linkten planlama ve toplantı ekran görüntülerimize ulaşabilirsiniz.
-<a href="https://dmedya.github.io/oua.github.io/" target="_blank">Daily Scrum>
 
 <h1>Sprint 1 Hedefi:</h1> 
 <h2>100 puan</h2>
