@@ -161,7 +161,7 @@ Hataların düzeltilmesi ve kullanıcı geri bildirimleri doğrultusunda iyileş
 Rehber seçim ekranı ve profil sayfalarının tasarımı ve geliştirilmesi. <br>
 Kullanıcı geri bildirim sistemi ve seyahat rotası desteği özelliklerinin entegrasyonu. <br>
 Sprint boyunca yapılan çalışmalar, uygulamanın planlandığı gibi ilerlediğini ve kullanıcıların ihtiyaçlarını karşılayacak şekilde geliştirildiğini göstermektedir. <br>
-Gelecek sprintlerde de bu ilerlemenin devam edeceğine ve kullanıcı deneyiminin daha da iyileştirileceğine inanıyoruz.<br>
+Gelecek sprintlerde de bu ilerlemenin devam edeceğine ve kullanıcı deneyiminin daha da iyileştirileceğine inanıyorum.<br>
 
 <h1>Uygulama Durumu</h1>
 Uygulamamızın geliştirilmesi sürecinde önemli aşamalar kaydedilmiştir. İlk olarak, kullanıcıların uygulamaya hızlı ve kolay bir şekilde erişimini sağlayacak olan giriş ekranı ve anasayfa tamamlanmıştır. Bu ekranlar, kullanıcı dostu bir arayüz ve sezgisel navigasyon sunarak, kullanıcıların ihtiyaçlarını karşılamayı hedeflemektedir.
