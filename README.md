@@ -38,7 +38,7 @@
 <h2>Polovoya </h2>
 
 <h1>Ürün Açıklaması</h1>
-Yabancı dilini geliştirmek isteyenler için, turist rehberi veya dil konusunda yetkin kişilerin, ücretsiz ya da belirledikleri bir ücret karşılığında turistlere rehberlik ederek seyahat bilgileri sunduğu bir proje geliştirdik. Bu proje ile turistler, bütçelerine veya konfor tercihlerine göre kendi rehberlerini seçebilirler. Aynı zamanda, bu proje sayesinde turistlerin seyahat rotalarına da destek sağlıyoruz.
+Yabancı dilini geliştirmek isteyenler için, turist rehberi veya dil konusunda yetkin kişilerin, ücretsiz ya da belirledikleri bir ücret karşılığında turistlere rehberlik ederek seyahat bilgileri sunduğu bir proje geliştirdim. Bu proje ile turistler, bütçelerine veya konfor tercihlerine göre kendi rehberlerini seçebilirler. Aynı zamanda, bu proje sayesinde turistlerin seyahat rotalarına da destek sağlıyorum.
 
 <h1>Ürün Özellikleri</h1>
 <h4><H3>1-)Rehber Seçimi: </H3>Turistler, bütçelerine ve konfor tercihlerine göre yerel rehberleri seçebilirler. Rehberlerin profilleri, dil becerileri ve uzmanlık alanları hakkında detaylı bilgi içerir.
