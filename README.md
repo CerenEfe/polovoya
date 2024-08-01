@@ -22,7 +22,6 @@
         <tbody>
             <tr>
                 <td><img src="grup-toplantı-screenshot/cerenefe.jpeg" width="50" height="50"><span>Ceren Efe</span></td>
-                hot/hasip.jpeg" width="50" height="50"><span>Hasip Tekin</span></td>
             </tr>
         </tbody>
     </table>
