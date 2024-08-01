@@ -188,8 +188,7 @@ Giriş/Kayıt UI'si oluşturma - (16 puan) <br>
 Ürünün altyapısını oluşturma - (26 puan) <br>
 Kayıt ve Giriş Sistemlerini ekleme - (16 puan) <br>
 <h2>Tamamlandı</h2>
-Takımla ürün fikirleri bulma - (10 puan) <br>
-Takımla takım fikirleri bulma - (10 puan) <br>
+fikirleri bulma - (10 puan) <br>
 Scrum Sürecinde Rollerin Belirlenmesi (Ürün Sahibi, Scrum Uzmanı, Geliştirme Ekibi) - (10 puan) <br>
 Marka renklerinin seçilmesi - (11 puan) <br>
 Proje takvimi ve kaynak gereksinimlerinin belirlenmesi - (16 puan) <br>
@@ -197,7 +196,7 @@ Kullanıcı taraması için Ön Yüz oluşturma - (16 puan) <br>
 Giriş Sayfası oluşturma - (12 puan) <br>
 Kayıt Sayfası oluşturma - (12 puan) <br>
 Anasayfa oluşturma - (14 puan) <br>
-<h2>Tamamlanan görevlerin toplamı:</h2> 111 puan
+<h2>Tamamlanan görevlerin toplamı:</h2> 101 puan
 
 <h2>Sprint Notları</h2>
 <h2>Proje Yapılandırması ve Gereksinim Tanımlaması</h2>
@@ -256,22 +255,17 @@ Sosyal medya giriş seçeneklerinin entegrasyonu hızlandırılacak ve daha fazl
 <h2>Sprint Retrospektifi</h2>
 İyi gidenler ve iyileştirilmesi gereken alanlar gözden geçirildi. <br>
 Bir sonraki sprint için planlar yapıldı. <br>
-Sprint boyunca yapılan çalışmalar, uygulamanın planlandığı gibi ilerlediğini ve kullanıcıların ihtiyaçlarını karşılayacak şekilde geliştirildiğini göstermektedir. Gelecek sprintlerde de bu ilerlemenin devam edeceğine ve kullanıcı deneyiminin daha da iyileştirileceğine inanıyoruz. <br>
+Sprint boyunca yapılan çalışmalar, uygulamanın planlandığı gibi ilerlediğini ve kullanıcıların ihtiyaçlarını karşılayacak şekilde geliştirildiğini göstermektedir. Gelecek sprintlerde de bu ilerlemenin devam edeceğine ve kullanıcı deneyiminin daha da iyileştirileceğine inanıyorum. <br>
 
 <H2>SPRİNT BOARD</H2>
-<img src="grup-toplantı-screenshot/WhatsApp Image 2024-07-20 at 1.30.18 AM.jpeg">
-Planlama ve toplantı ekran görüntülerimize ulaşabilirsiniz.
-<a href="https://dmedya.github.io/ouaa.github.io/" target="_blank">Daily Scrum>
 
 <h2>Uygulama Durumu</h2>
 Uygulamamızın geliştirilmesi sürecinde önemli aşamalar kaydedilmiştir. İlk olarak, kullanıcıların uygulamaya hızlı ve kolay bir şekilde erişimini sağlayacak giriş ekranı ve anasayfa tamamlanmıştır. Bu ekranlar, kullanıcı dostu bir arayüz ve sezgisel navigasyon sunarak, kullanıcıların ihtiyaçlarını karşılamayı hedeflemektedir.
 
 Şu anda, uygulamanın geri kalan önemli bölümleri üzerinde yoğun bir şekilde çalışılmaktadır. Özellikle, kullanıcıların giriş yapmalarını ve yeni hesap oluşturmalarını sağlayacak olan giriş sayfası ve kayıt ol sayfası tamamlanma aşamasındadır. Bu sayfalar tamamlandığında, kullanıcılar uygulamaya güvenli bir şekilde giriş yapabilecek ve yeni hesap oluşturabileceklerdir.
 
-Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin yakın zamanda tamamlanarak kullanıcılara sunulması hedeflenmektedir. Güncellemelerle ilgili gelişmeleri sizinle paylaşmaya devam edeceğiz.
+Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin yakın zamanda tamamlanarak kullanıcılara sunulması hedeflenmektedir. Güncellemelerle ilgili gelişmeleri sizinle paylaşmaya devam edeceğim.
 
-<img src="grup-toplantı-screenshot/WhatsApp Image 2024-07-16 at 7.27.21 PM.jpeg">
-<img src="grup-toplantı-screenshot/WhatsApp Image 2024-07-16 at 7.27.22 PM (2).jpeg">
-<img src="grup-toplantı-screenshot/WhatsApp Image 2024-07-17 at 9.16.25 PM.jpeg">
+
 
 <h1>SPRİNT3</h1>
