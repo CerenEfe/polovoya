@@ -168,11 +168,8 @@ Uygulamamızın geliştirilmesi sürecinde önemli aşamalar kaydedilmiştir. İ
 
 Şu anda, uygulamanın geri kalan önemli bölümleri üzerinde yoğun bir şekilde çalışılmaktadır. Özellikle, kullanıcıların giriş yapmalarını ve yeni hesap oluşturmalarını sağlayacak olan giriş sayfası ve kayıt ol sayfası yapılma aşamasındadır. Bu sayfalar tamamlandığında, kullanıcılar uygulamaya güvenli bir şekilde giriş yapabilecek ve yeni hesap oluşturabileceklerdir.
 
-Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin yakın zamanda tamamlanarak kullanıcılara sunulması hedeflenmektedir. Güncellemelerle ilgili gelişmeleri sizinle paylaşmaya devam edeceğiz. <br>
-<img src="polovoyahome1.png" >
-<img src="polovoyahome2.png" >
-<img src="polovoyalogin.png" >
-<img src="register.png">
+Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin yakın zamanda tamamlanarak kullanıcılara sunulması hedeflenmektedir. Güncellemelerle ilgili gelişmeleri sizinle paylaşmaya devam edeceğim. <br>
+
 
 <H1>SPRİNT2</H1>
 
