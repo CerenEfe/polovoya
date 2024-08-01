@@ -79,8 +79,7 @@ Giriş/Kayıt UI'si oluşturma - (16 puan) <br>
 Kayıt ve Giriş Sistemlerini ekleme - (16 puan) <br>
 
 <h1>Tamamlandı</h1>
-Takımla ürün fikirleri bulma - (10 puan) <br>
-Takımla takım fikirleri bulma - (10 puan) <br>
+ürün fikirleri bulma - (10 puan) <br>
 Scrum Sürecinde Rollerin Belirlenmesi (Ürün Sahibi, Scrum Uzmanı, Geliştirme Ekibi) - (10 puan) <br>
 Marka renklerinin seçilmesi - (11 puan) <br>
 Proje takvimi ve kaynak gereksinimlerinin belirlenmesi - (16 puan) <br>
