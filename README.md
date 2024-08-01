@@ -164,7 +164,7 @@ Sprint boyunca yapılan çalışmalar, uygulamanın planlandığı gibi ilerledi
 Gelecek sprintlerde de bu ilerlemenin devam edeceğine ve kullanıcı deneyiminin daha da iyileştirileceğine inanıyorum.<br>
 
 <h1>Uygulama Durumu</h1>
-Uygulamamızın geliştirilmesi sürecinde önemli aşamalar kaydedilmiştir. İlk olarak, kullanıcıların uygulamaya hızlı ve kolay bir şekilde erişimini sağlayacak olan giriş ekranı ve anasayfa tamamlanmıştır. Bu ekranlar, kullanıcı dostu bir arayüz ve sezgisel navigasyon sunarak, kullanıcıların ihtiyaçlarını karşılamayı hedeflemektedir.
+Uygulamamın geliştirilmesi sürecinde önemli aşamalar kaydedilmiştir. İlk olarak, kullanıcıların uygulamaya hızlı ve kolay bir şekilde erişimini sağlayacak olan giriş ekranı ve anasayfa tamamlanmıştır. Bu ekranlar, kullanıcı dostu bir arayüz ve sezgisel navigasyon sunarak, kullanıcıların ihtiyaçlarını karşılamayı hedeflemektedir.
 
 Şu anda, uygulamanın geri kalan önemli bölümleri üzerinde yoğun bir şekilde çalışılmaktadır. Özellikle, kullanıcıların giriş yapmalarını ve yeni hesap oluşturmalarını sağlayacak olan giriş sayfası ve kayıt ol sayfası yapılma aşamasındadır. Bu sayfalar tamamlandığında, kullanıcılar uygulamaya güvenli bir şekilde giriş yapabilecek ve yeni hesap oluşturabileceklerdir.
 
