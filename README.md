@@ -22,7 +22,7 @@
         <tbody>
             <tr>
                 <td><img src="grup-toplantı-screenshot/cerenefe.jpeg" width="50" height="50"><span>Ceren Efe</span></td>
-                <td>Product Owner , Designer , Developer </td>
+                <td>Product Owner , Designer , Developer , Scrum Master</td>
                 <td>
                     <a href="https://www.linkedin.com/in/ceren-efe-/" target="_blank"><img src="grup-toplantı-screenshot/linkedn.png" alt="LinkedIn" width="50" height="50"></a>
                 </td>
