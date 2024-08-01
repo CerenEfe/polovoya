@@ -22,31 +22,7 @@
         <tbody>
             <tr>
                 <td><img src="grup-toplantı-screenshot/cerenefe.jpeg" width="50" height="50"><span>Ceren Efe</span></td>
-                <td>Product Owner , Designer </td>
-                <td>
-                    <a href="https://www.linkedin.com/in/ceren-efe-/" target="_blank"><img src="grup-toplantı-screenshot/linkedn.png" alt="LinkedIn" width="50" height="50"></a>
-                </td>
-            </tr>
-            <tr>
-                <td><img src="grup-toplantı-screenshot/medya.jpeg" width="50" height="50"><span>Medya Doran</span></td>
-                <td>Scrum Master , Developer</td>
-                <td>
-                    <a href="https://www.linkedin.com/in/medya-doran-378312183/" target="_blank"><img src="grup-toplantı-screenshot/linkedn.png" alt="LinkedIn" width="50" height="50"></a>
-                </td>
-            </tr>
-            <tr>
-                <td><img src="" width="50" height="50"><span>Melisa Sadioğlu</span></td>
-                <td>Designer</td>
-                <td>
-                    <a href="https://linkedin.com" target="_blank"><img src="grup-toplantı-screenshot/linkedn.png" alt="LinkedIn" width="50" height="50"></a>
-                </td>
-            </tr>
-            <tr>
-                <td><img src="grup-toplantı-screenshot/hasip.jpeg" width="50" height="50"><span>Hasip Tekin</span></td>
-                <td>Marketing , Developer</td>
-                <td>
-                    <a href="https://www.linkedin.com/in/hasip-tekin" target="_blank"><img src="grup-toplantı-screenshot/linkedn.png" alt="LinkedIn" width="50" height="50"></a>
-                </td>
+                hot/hasip.jpeg" width="50" height="50"><span>Hasip Tekin</span></td>
             </tr>
         </tbody>
     </table>
