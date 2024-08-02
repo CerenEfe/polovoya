@@ -267,5 +267,3 @@ Uygulamamın geliştirilmesi sürecinde önemli aşamalar kaydedilmiştir. İlk 
 Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin yakın zamanda tamamlanarak kullanıcılara sunulması hedeflenmektedir. Güncellemelerle ilgili gelişmeleri sizinle paylaşmaya devam edeceğim.
 
 
-
-<h1>SPRİNT3</h1>
