@@ -1,11 +1,11 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+import 'package:polovoya/feature/main_stream/main_stream.dart';
 
 import '../../core/components/button/custom_button.dart';
 import '../../core/components/textfield/custom_textfield.dart';
 import '../../core/constant/images.dart';
 import '../../core/utils/colors/colors.dart';
-import '../home/home_view.dart';
 import '../login/login_view.dart';
 
 class RegisterView extends StatefulWidget {
@@ -98,7 +98,7 @@ class _RegisterViewState extends State<RegisterView> {
                               Navigator.pushReplacement(
                                 context,
                                 MaterialPageRoute(
-                                  builder: (context) => const HomeView(),
+                                  builder: (context) => const MainStreamView(),
                                 ),
                               );
                             },

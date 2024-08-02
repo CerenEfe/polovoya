@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:polovoya/core/utils/colors/colors.dart';
 import 'package:polovoya/feature/intro/intro_view.dart';
-import 'package:polovoya/feature/login/login_view.dart';
 
 void main() {
   runApp(const MyApp());
