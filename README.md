@@ -21,7 +21,7 @@
         </thead>
         <tbody>
             <tr>
-                <td><img src="grup-toplantı-screenshot/cerenefe.jpeg" width="50" height="50"><span>Ceren Efe</span></td>
+                <td><img src="https://github.com/CerenEfe/polovoya/blob/main/WhatsApp%20Image%202024-02-12%20at%209.37.57%20PM.jpg" width="50" height="50"><span>Ceren Efe</span></td>
                 <td>Product Owner , Scrum Master, Designer , Developer </td>
                 <td>
                     <a href="https://www.linkedin.com/in/ceren-efe-/" target="_blank"><img src="grup-toplantı-screenshot/linkedn.png" alt="LinkedIn" width="50" height="50"></a>
