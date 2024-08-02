@@ -2,7 +2,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:polovoya/core/components/textfield/custom_textfield.dart';
 import 'package:polovoya/core/utils/colors/colors.dart';
-import 'package:polovoya/feature/home/home_view.dart';
+import 'package:polovoya/feature/main_stream/main_stream.dart';
 import 'package:polovoya/feature/register/register_view.dart';
 
 import '../../core/components/button/custom_button.dart';
@@ -82,7 +82,7 @@ class _LoginViewState extends State<LoginView> {
                               Navigator.pushReplacement(
                                 context,
                                 MaterialPageRoute(
-                                  builder: (context) => const HomeView(),
+                                  builder: (context) => const MainStreamView(),
                                 ),
                               );
                             },
@@ -102,10 +102,11 @@ class _LoginViewState extends State<LoginView> {
                       children: [
                         TextSpan(
                           text: 'Kayıt Ol',
-                          style: Theme.of(context).textTheme.labelLarge!.copyWith(
-                                color: CustomColors.pink_dark,
-                                fontWeight: FontWeight.w600,
-                              ),
+                          style:
+                              Theme.of(context).textTheme.labelLarge!.copyWith(
+                                    color: CustomColors.pink_dark,
+                                    fontWeight: FontWeight.w600,
+                                  ),
                           recognizer: TapGestureRecognizer()
                             ..onTap = () {
                               Navigator.pushReplacement(
